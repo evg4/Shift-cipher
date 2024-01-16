@@ -16,7 +16,7 @@ Feel free to reference the Unicode Table as well as the JavaScript String method
 
 
 ## How to use
-For use in Node.
+To try out this code, copy the .js file then run by typing "npm [filename]" in the terminal.
 
 ## Licence
 Please see license document.
