@@ -17,8 +17,7 @@ Feel free to reference the Unicode Table as well as the JavaScript String method
 
 ## How to use
 For use in Node.
-## Technologies
-JavaScript.
+
 ## Licence
 Please see license document.
 
